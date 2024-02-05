@@ -1,0 +1,11 @@
+div.header{
+  float: left;
+  width: 100%;
+  height: 7%;
+}
+div.underheader{
+  float: left;
+  width: 19.8%;
+  height: 100%;
+  text-align: center;
+}
